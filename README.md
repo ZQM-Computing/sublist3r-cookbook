@@ -35,6 +35,8 @@ Practitioners who enumerate subdomains through search engines and resolvers.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-run` | A first run and its subdomain output |
